@@ -38,7 +38,10 @@ function VideoCardGroup({
                 categoryColor={categoryColor}
               />
               <TitleVideo>
-                <a href={video.url}>
+                <a
+                href={video.url}
+                target="_blank"
+                >
                   <p>{video.titulo}
                   </p>
                   </a>
