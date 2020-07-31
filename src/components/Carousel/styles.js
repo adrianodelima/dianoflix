@@ -19,6 +19,7 @@ export const Title = styled.h3`
 `;
 
 export const ExtraLink = styled.a`
+  font-size: 20px;
   margin-left: 16px;
   text-decoration: none;
   transition: opacity .3s;
@@ -53,3 +54,17 @@ export const VideoCardGroupContainer = styled.section`
   margin-left: 5%;
   margin-bottom: 16px;
 `;
+
+export const TitleVideo = styled.section`
+  font-size: 20px;
+  text-align: center;
+  a{
+    text-decoration: none;
+    &:hover {
+      font-size:21px;
+      opacity: 0.5;
+      color: #999999;
+      transition: 0.2s;
+    }
+  }
+`

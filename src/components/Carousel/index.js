@@ -1,5 +1,5 @@
 import React from 'react';
-import { VideoCardGroupContainer, VideoCardList, Title, ExtraLink } from './styles';
+import { VideoCardGroupContainer, VideoCardList, Title, ExtraLink, TitleVideo } from './styles';
 import VideoCard from './components/VideoCard';
 
 function VideoCardGroup({
@@ -37,6 +37,12 @@ function VideoCardGroup({
                 videoURL={video.url}
                 categoryColor={categoryColor}
               />
+              <TitleVideo>
+                <a href={video.url}>
+                  <p>{video.titulo}
+                  </p>
+                  </a>
+                  </TitleVideo>
             </li>
           );
         })}

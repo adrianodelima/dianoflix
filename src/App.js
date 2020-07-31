@@ -13,8 +13,7 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={`Emicida - DVD "10 anos de Triunfo" – Ooorra (Ao vivo)
-        Ooorra (Ao Vivo) "DVD 10 anos de Triunfo” ao vivo, gravado dia 20/11/17 na Audio em São Paulo.`}
+        videoDescription={`There is nothing wrong with just a taste of what you paid for.`}
       />
 
       <Carousel

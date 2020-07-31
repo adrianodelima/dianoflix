@@ -1,183 +1,157 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Indie",
+      "link": "https://open.spotify.com/playlist/21qkAlhVGCC2wXCY7YLkQo?si=X-_isZg7RwWlkJhYffZleA",
+      "cor": "#3c3737",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Whatever",
+        "url": "https://open.spotify.com/playlist/21qkAlhVGCC2wXCY7YLkQo?si=X-_isZg7RwWlkJhYffZleA"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "The Ballad of Mona Lisa - Panic! at the Disco",
+          "url": "https://www.youtube.com/watch?v=gOgpdp3lP8M"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Miss Jackson - Panic! at the Disco",
+          "url": "https://www.youtube.com/watch?v=LUc_jXBD9DU"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Social Cues - Cage the Elephant",
+          "url": "https://www.youtube.com/watch?v=eCqdiwxMy4k"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "R U Mine - Arctic Monkeys",
+          "url": "https://www.youtube.com/watch?v=VQH8ZTgna3Q"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Hold Me Tight or Don't - Fall Out Boy",
+          "url": "https://www.youtube.com/watch?v=jG1JY0rt2Os"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Sweather Weather - The Neighbourhood",
+          "url": "https://www.youtube.com/watch?v=GCdwKhTtNNw"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Sertanejo",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Ao sofrência",
+        "url": "https://open.spotify.com/playlist/5sCeD4QhFkUMxLp8mEJ7rg?si=1Du5PI5fShWB7I3J2C9qxA"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Arrasta - Gusttavo Lima",
+          "url": "https://www.youtube.com/watch?v=iJNATNLIFKo"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Amor da sua cama - Felipe Araújo",
+          "url": "https://www.youtube.com/watch?v=v4eeD0Mns-c"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Long Neck - Zé Neto e Cristiano",
+          "url": "https://www.youtube.com/watch?v=QoRb9JQEnQI"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Bebaça - Marília Mendonça",
+          "url": "https://www.youtube.com/watch?v=g8VSOYAnbEM"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Aquele 1% - Marcos & Belutti",
+          "url": "https://www.youtube.com/watch?v=JFnWGEDZGBk"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Rock",
+      "cor": "blue",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Ouvir com o volume no máximo",
+        "url": "https://open.spotify.com/playlist/14YcaPJJhzlH7kK7VAckvK?si=4Q_nPf62SHG1sb_-5qVQfg"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "You Shook Me All Night Long - AC/DC",
+          "url": "https://www.youtube.com/watch?v=Lo2qQmj0_h4"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Don't Cry - Guns N Roses",
+          "url": "https://www.youtube.com/watch?v=zRIbf6JqkNc"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Knights of Cydonia - Muse",
+          "url": "https://www.youtube.com/watch?v=G_sBOsh-vyI"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Bohemian Rhapsody - Queen",
+          "url": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ"
+        },
+        {
+          "titulo": "Paint it, Black - The Rolling Stones",
+          "url": "https://www.youtube.com/watch?v=O4irXQhgMqg"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
+      "titulo": "Rock Nacional",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Talvez não tão skate assim",
+        "url": "https://open.spotify.com/playlist/35quvkzDVpEJgXQplbhNcJ?si=Q0WXMIfdSvOKurPnQ4bQTg"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Depois da Meia Noite - Capital Inicial",
+          "url": "https://www.youtube.com/watch?v=IGM-2eO7b_o"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Lutar Pelo Que É Meu - Charlie Brown Jr",
+          "url": "https://www.youtube.com/watch?v=2kTeFZ7PIdk"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Pelados em Santos - Mamonas Assassinas",
+          "url": "https://www.youtube.com/watch?v=Nz7101ulkK0"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Outro Lugar - Detonautas",
+          "url": "https://www.youtube.com/watch?v=8zsZ3Ql8x7o"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Exagerado - Cazuza",
+          "url": "https://www.youtube.com/watch?v=ZBwjT-3t2O8"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Sad Songs",
+      "cor": "purple",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Músicas pra chorar no transporte público",
+        "url": "https://open.spotify.com/playlist/2lG8ZdVieQF8S2LELg7MEG?si=lb89V6KZQXmlwYA-pF824w"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Hurt - Johnny Cash",
+          "url": "https://www.youtube.com/watch?v=8AHCfZTRGiI"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Doin' Time - Lana Del Rey",
+          "url": "https://www.youtube.com/watch?v=qolmz4FlnZ0"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "W.D.Y.W.F.M - The Neighbourhood",
+          "url": "https://www.youtube.com/watch?v=tDm5zslFXwc"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Creep - Radiohead",
+          "url": "https://www.youtube.com/watch?v=XFkzRNyygfk"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Snuff - Slipknot",
+          "url": "https://www.youtube.com/watch?v=L4tZd_rgRrY"
         }
       ]
     }
